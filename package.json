@@ -1,0 +1,25 @@
+{
+  "name": "benji-dashboard",
+  "version": "1.0.0",
+  "description": "serve parse-dashboard",
+  "main": "index.js",
+  "dependencies": {
+    "parse-dashboard": "^2.0.5"
+  },
+  "scripts": {
+    "start": "parse-dashboard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benji-Inc/benji-dashboard.git"
+  },
+  "keywords": [
+    "parse"
+  ],
+  "author": "Benji Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benji-Inc/benji-dashboard/issues"
+  },
+  "homepage": "https://github.com/Benji-Inc/benji-dashboard#readme"
+}

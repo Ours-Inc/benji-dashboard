@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "serve parse-dashboard",
   "main": "index.js",
+  "devDependencies": {},
   "dependencies": {
     "graphql": "^14.6.0",
     "parse-dashboard": "^2.0.5",

@@ -4,7 +4,10 @@
   "description": "serve parse-dashboard",
   "main": "index.js",
   "dependencies": {
-    "parse-dashboard": "^2.0.5"
+    "graphql": "^14.6.0",
+    "parse-dashboard": "^2.0.5",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
   },
   "scripts": {
     "start": "parse-dashboard"

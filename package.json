@@ -8,7 +8,6 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "babel": "^6.23.0",
     "graphql": "^14.6.0",
     "parse-dashboard": "^2.1.0",
     "react": "^16.12.0",
